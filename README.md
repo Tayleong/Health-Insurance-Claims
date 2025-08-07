@@ -65,7 +65,7 @@ The dataset used in this project contains synthetic health insurance claim data 
 
 2) Future enhancements could include:
 
-3) Time--series claim history
+3) Time-series claim history
 
 4) Medication use
 

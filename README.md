@@ -56,7 +56,7 @@ The dataset used in this project contains synthetic health insurance claim data 
 3) Gradient Boosting outperformed all other models (R² = 0.8484), suggesting that non-linear interactions between features are important to accurately predicting claims.
 
 
-### <font color='darkblue'> **3. Other Comments**</font>
+### <font color='darkblue'> **4. Other Comments**</font>
 
 1) This dataset is good for prototyping risk-based pricing models for health insurance.
 

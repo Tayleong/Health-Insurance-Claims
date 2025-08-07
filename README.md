@@ -47,3 +47,27 @@ The dataset used in this project contains synthetic health insurance claim data 
 9)  **Claim (Insurance Claim Amount)**: Highly right-skewed distribution. Majority of claims are low, but long tail of high values. Boxplot shows many extreme outliers.
 
 
+### <font color='darkblue'> **3. 💡 Key Insights**</font>
+
+1) Smoking is the strongest predictor of higher claims across all models.
+
+2) BMI and blood pressure are strong continuous cost drivers. Every unit increase in BMI correlates with thousands of dollars in added annual claim burden.
+
+3) Gradient Boosting outperformed all other models (R² = 0.8484), suggesting that non-linear interactions between features are important to accurately predicting claims.
+
+
+### <font color='darkblue'> **3. Other Comments**</font>
+
+1) This dataset is good for prototyping risk-based pricing models for health insurance.
+
+2) Future enhancements could include:
+
+3) Time--series claim history
+
+4) Medication use
+
+5) Hospital visits or diagnoses
+
+6) Ethical consideration: Predictive models in healthcare must be validated against bias and fairness, especially when used in pricing or coverage decisions
+
+7) Pricing strategies should account for country-specific healthcare policies and subsidies (If any), as these were not explicitly detailed in the dataset.

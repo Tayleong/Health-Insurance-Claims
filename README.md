@@ -24,3 +24,8 @@ The dataset used in this project contains synthetic health insurance claim data 
 7) **Region**:	Geographic region (northeast, southeast, etc.)
 
 8) **Diabetic**:	Indicates if the person is diabetic (Yes, No)
+
+
+### <font color='darkblue'> **3. 🔍 General Observations**</font>
+
+The dataset appears balanced across gender and region categories.

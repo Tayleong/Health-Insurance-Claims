@@ -10,10 +10,17 @@ The dataset used in this project contains synthetic health insurance claim data 
 **Column Name	Description**
 
 Age:	Age of the individual (in years)
+
 Gender:	Gender of the individual (male, female)
+
 BMI	Body Mass Index: A measure of body fat
+
 Bloodpressure	Systolic blood pressure reading
+
 Children:	Number of Patients children
+
 Smoker:	Whether the person is a smoker (Yes, No)
+
 Region:	Geographic region (northeast, southeast, etc.)
+
 Diabetic:	Indicates if the person is diabetic (Yes, No)

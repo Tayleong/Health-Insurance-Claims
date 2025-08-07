@@ -28,16 +28,22 @@ The dataset used in this project contains synthetic health insurance claim data 
 
 ### <font color='darkblue'> **3. 🔍 General Observations**</font>
 
-1) Gender: Distribution is nearly equal between male and female patients.
+1) **Gender**: Distribution is nearly equal between male and female patients.
 
-2) Smoker: Roughly 20–25% of patients are smokers.
+2) **Smoker**: Roughly 20–25% of patients are smokers.
 
-3) Region: Southeast has the most patients.
+3) **Region**: Southeast has the most patients.
 
-4) Diabetic: With 642 patients marked as diabetic (~48%), this indicates that almost half of the population in the dataset is living with diabetes. This suggest that diabetes is a major health factor in this dataset and highly potential to affect the claim impact.
+4) **Diabetic**: With 642 patients marked as diabetic (~48%), this indicates that almost half of the population in the dataset is living with diabetes. This suggest that diabetes is a major health factor in this dataset and highly potential to affect the claim impact.
 
-5) Patient Dependant_Children: Majority of patients have 0 to 2 children and few patients report have 4 or more children.
+5) **Patient Dependant_Children**: Majority of patients have 0 to 2 children and few patients report have 4 or more children.
 
-6) Age: Histogram generally shows uniform distribution and Boxplot shows no outliers.
+6) **Age**: Histogram generally shows uniform distribution. Boxplot shows no outliers.
+
+7)  **BMI (Body Mass Index)**: Distribution is slightly right-skewed with a concentration between 25 and 35. Boxplot shows some outliers above BMI 45.
+
+8)  **Bloodpressure**: Appears normally distributed, centered around 90–95. Boxplot reveals multiple outliers on the higher end (possibly hypertension).
+
+9)  **Claim (Insurance Claim Amount)**: Highly right-skewed distribution. Majority of claims are low, but long tail of high values. Boxplot shows many extreme outliers.
 
 

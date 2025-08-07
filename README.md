@@ -5,3 +5,16 @@ This capstone project applies machine learning techniques to predict annual medi
 📁 **Dataset Description**
 
 The dataset used in this project contains synthetic health insurance claim data for individual patients. Each record represents a single insured person along with various demographic, health, and lifestyle variables, and their corresponding annual medical claim amount.
+
+**Key Features:**
+
+### <font color='darkblue'> **Column Name	Description**</font>
+
+Age:	Age of the individual (in years)
+Gender:	Gender of the individual (male, female)
+BMI	Body Mass Index: A measure of body fat
+Bloodpressure	Systolic blood pressure reading
+Children:	Number of Patients children
+Smoker:	Whether the person is a smoker (Yes, No)
+Region:	Geographic region (northeast, southeast, etc.)
+Diabetic:	Indicates if the person is diabetic (Yes, No)

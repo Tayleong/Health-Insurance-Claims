@@ -28,4 +28,16 @@ The dataset used in this project contains synthetic health insurance claim data 
 
 ### <font color='darkblue'> **3. 🔍 General Observations**</font>
 
-The dataset appears balanced across gender and region categories.
+1) Gender: Distribution is nearly equal between male and female patients.
+
+2) Smoker: Roughly 20–25% of patients are smokers.
+
+3) Region: Southeast has the most patients.
+
+4) Diabetic: With 642 patients marked as diabetic (~48%), this indicates that almost half of the population in the dataset is living with diabetes. This suggest that diabetes is a major health factor in this dataset and highly potential to affect the claim impact.
+
+5) Patient Dependant_Children: Majority of patients have 0 to 2 children and few patients report have 4 or more children.
+
+6) Age: Histogram generally shows uniform distribution and Boxplot shows no outliers.
+
+

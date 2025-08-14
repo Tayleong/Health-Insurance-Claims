@@ -50,7 +50,7 @@ The dataset used in this project contains synthetic health insurance claim data 
 9)  **Claim (Insurance Claim Amount)**: Highly right-skewed distribution. Majority of claims are low, but long tail of high values. Boxplot shows many extreme outliers.
 
 
-### <font color='darkblue'> **3. 💡 Key Insights**</font>
+### <font color='darkblue'> **4. 💡 Key Insights**</font>
 
 1) Smoking is the strongest predictor of higher claims across all models.
 
@@ -59,7 +59,7 @@ The dataset used in this project contains synthetic health insurance claim data 
 3) Gradient Boosting outperformed all other models (R² = 0.8484), suggesting that non-linear interactions between features are important to accurately predicting claims.
 
 
-### <font color='darkblue'> **4. Other Comments**</font>
+### <font color='darkblue'> **5. Other Comments**</font>
 
 1) This dataset is good for prototyping risk-based pricing models for health insurance.
 

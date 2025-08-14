@@ -71,6 +71,6 @@ The dataset used in this project contains synthetic health insurance claim data 
 
 - Hospital visits or diagnoses
 
-3) Ethical consideration: Predictive models in healthcare must be validated against bias and fairness, especially when used in pricing or coverage decisions
+3) Ethical consideration: Predictive models in healthcare must be validated against bias and fairness, especially when used in pricing or coverage decisions for country-specific healthcare policies/laws and guildlines.
 
 4) Pricing strategies should account for country-specific healthcare policies and subsidies (If any), as these were not explicitly detailed in the dataset.

@@ -6,7 +6,7 @@ This capstone project applies machine learning techniques to predict annual medi
 
 ### <font color='darkblue'> **1. 📁 Dataset Description:**</font>
 
-The dataset used in this project contains synthetic health insurance claim data for individual patients. Each record represents a single insured person along with various demographic, health, and lifestyle variables, and their corresponding annual medical claim amount.
+The dataset used in this project contains synthetic health insurance claim data for individual patients. Each record represents a single insured person along with various demographic, health, lifestyle variables and their corresponding annual medical claim amount.
 
 ### <font color='darkblue'> **2. Key Features:**</font>
 

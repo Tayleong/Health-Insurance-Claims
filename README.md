@@ -1,5 +1,5 @@
 # Health-Insurance-Cost-Prediction Using Python
-This capstone project applies machine learning techniques to predict annual medical insurance claim costs. Using a synthetic dataset, we explore linear regression, random forest, and gradient boosting models to identify key cost drivers such as smoking status, BMI, and blood pressure.
+This capstone project applies machine learning techniques to predict annual medical insurance claim costs. Using a synthetic dataset, we explore linear regression, random forest regression and gradient boosting regression models to identify key cost drivers such as smoking status, BMI, and blood pressure.
 
 
 ![Screenshot of dashboard](https://i.imgur.com/xyQdIq0.png)

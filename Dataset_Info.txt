@@ -19,7 +19,7 @@ PatientID       | int       | Unique identifier for each patient
 age             | int       | Age of the patient in years
 gender          | string    | Gender of the patient (Male/Female)
 bmi             | float     | Body Mass Index of the patient
-children        | int       | Number of children/dependents
+children        | int       | Patient number of children/dependents
 smoker          | string    | Smoker status (Yes/No)
 region          | string    | Residential region (e.g., northeast, southeast)
 diabetic        | string    | Diabetic status (Yes/No)
